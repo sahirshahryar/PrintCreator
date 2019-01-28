@@ -1,0 +1,32 @@
+# (C) 2018 Sahir Shahryar
+let 1 = cube
+
+# Torso
+1:black
+1@U@D@turquoise
+1@U/U@D@turquoise
+
+# Head
+1@U/U/U@D@peach
+
+# Arm 1
+1@U/U/W@E@turquoise
+1@U/U/W/W@E@peach
+
+# Arm 2
+1@U/U/E@W@turquoise
+1@U/U/E/E@W@peach
+
+# Leg 1
+1@W@E@black
+1@W/D@U@black
+1@W/D/D@U@peach
+1@W/D/D/D@U@white
+1@W/D/D/D/S@N@white
+
+# Leg 2
+1@E@W@black
+1@E/D@U@black
+1@E/D/D@U@peach
+1@E/D/D/D@U@white
+1@E/D/D/D/S@N@white

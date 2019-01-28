@@ -1,0 +1,12 @@
+# (C) 2018 Sahir Shahryar
+
+let 1 = cube
+
+1
+1@U@D
+1@D@U
+1@N@S
+1@S@N
+1@E@W
+1@W@E
+1@W/W@E

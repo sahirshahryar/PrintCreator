@@ -1,0 +1,28 @@
+# (C) 2018 Sahir Shahryar
+let 1 = cube
+
+# Torso
+1
+1@U@D
+1@U/U@D
+
+# Head
+1@U/U/U@D
+
+# Arm 1
+1@U/U/W@E
+1@U/U/W/W@E
+
+# Arm 2
+1@U/U/E@W
+1@U/U/E/E@W
+
+# Leg 1
+1@W@E
+1@W/D@U
+1@W/D/D@U
+
+# Leg 2
+1@E@W
+1@E/D@U
+1@E/D/D@U

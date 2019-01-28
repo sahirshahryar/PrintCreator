@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  PrintCreator
+
+  Created by Sahir Shahryar on 7/4/18.
+  Copyright © 2018 Sahir Shahryar. All rights reserved.
+*/
+"gui-basics.ok" = "OK";
+"gui-basics.cancel" = "Abbrechen";
+"gui-basics.back" = "Zurück";
+
+"mdl-parse-error.dialog-title" = "Analytischer Fehler";
+"mdl-parse-error.number-only" = "Fehler in Zeile {0}: ";
+"mdl-parse-error.number-and-text" = "Fehler in Zeile {0} ({1}): ";
+"mdl-parse-error.illegalFileType" = "Die Datei, die '{0}' bennant ist, ist kein .mdl-Datei";
+"mdl-parse-error.fileAccessError" = "Die Datei '{0}' ist unerreichbar";
+"mdl-parse-error.invalidAliasDefinition" = "der Alias ist unrichtig formatiert";
+"mdl-parse-error.aliasAlreadyUsed" = "doppeltes Alias '{0}'";
+"mdl-parse-error.illegalAliasName" = "'{0}' ist kein berechtigtes Alias (es kann nicht 'let' oder 'autopeg' sein)";
+"mdl-parse-error.remappedAliasName" = "Aliasse mussen direkt zu einem Block-Typ auflösen; ein Alias darf nicht zu ein andere Alias auflösen";
+"mdl-parse-error.recursiveAliasName" = "Aliasse mussen nicht rekursiv sein";
+"mdl-parse-error.cannotUseBlockName" = "die Name '{0}' gehört schon einem Block-Typ und kann deshalb nicht die Name eines neuen Aliases sein.";
+"mdl-parse-error.insertionBeforeRoot" = "bevor die Ergänzung mehrer Blöcke muss den Wurzelblock erst definiert werden";
+"mdl-parse-error.invalidBlockDefinition" = "der Block ist unrichtig formatiert";
+"mdl-parse-error.unknownBlockType" = "'{0}' ist kein bekannter Block-Typ";
+"mdl-parse-error.colorUnknown" = "das Farb-Regel '{0}' wurde unrichtig formatiert";
+"mdl-parse-error.duplicateBlockAddress" = "es gibt schon einen Block da";
+"mdl-parse-error.blockCollision" = "dieser Block kollidiert mit einem älteren Block";
+"mdl-parse-error.blockAdditionFailed" = "{0}";
+"mdl-parse-error.duplicateRootDefinition" = "der Wurzelblock wurde schon definiert";
+"mdl-parse-error.autopegNotApplicable" = "es ist zu früh, autopeg zu benuzten";
+"mdl-parse-error.illegalAutopegArgument" = "unrichtige Benutzung autopegs: '{0}' ist kein berichtiger Modus für die automatische Platzierung Pflockes (richtige Optionen sind 'min', 'mid', oder 'max')";
+
+"model-view-error.title" = "Innerlich Fehler";
+"model-view-error.no-file-passed" = "Keine Datei-Name wurde zum System gegeben.";
+"model-view-error.file-not-located" = "Das Dateisystem konnte nicht die Datei '{0}' finden";
+
+"rendering-error.title" = "Rendering-Fehler";
+"rendering-error.componentNil" = "Das Vorbild, das zum Vorbildsanzeige passierte wurde, war nil";
+"rendering-error.sceneNil" = "Die leere Szene war nil";
+
+"editor-pane.title" = "Bearbeiten";
+"editor-pane.title-disabled" = "Bearbeitung verboten";
+"editor-pane.unavailable-desc" = "Um dieses Vorbild zu bearbeiten, musst du es erstmal kopieren.";
+"editor-pane.make-clone" = "Kopieren...";
+"editor-pane.make-named-clone" = "{0} kopieren...";
+
+"viewer.block-count-zero" = "Keine Blöcke";
+"viewer.block-count-singular" = "Ein Block";
+"viewer.block-count-plural" = "{0} Blöcke";
+
+"numbers.2" = "Zwei";
+"numbers.3" = "Drei";
+"numbers.4" = "Vier";
+"numbers.5" = "Fünf";
+"numbers.6" = "Sechs";
+"numbers.7" = "Sieben";
+"numbers.8" = "Acht";
+"numbers.9" = "Neun";
+"numbers.10" = "Zehn";
+"numbers.11" = "Elf";
+"numbers.12" = "Zwölf";
+"numbers.13" = "Dreizehn";
+"numbers.14" = "Vierzehn";
+"numbers.15" = "Fünfzehn";
+"numbers.16" = "Sechzehn";
+"numbers.17" = "Siebzehn";
+"numbers.18" = "Achtzehn";
+"numbers.19" = "Neunzehn";
+"numbers.20" = "Achtzehn";

@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  PrintCreator
+
+  Created by Sahir Shahryar on 7/4/18.
+  Copyright © 2018 Sahir Shahryar. All rights reserved.
+*/
+"gui-basics.ok" = "OK";
+"gui-basics.cancel" = "Cancel";
+"gui-basics.back" = "Back";
+
+"mdl-parse-error.dialog-title" = "Parsing Failed";
+"mdl-parse-error.number-only" = "Error on line {0}: ";
+"mdl-parse-error.number-and-text" = "Error on line {0} ({1}): ";
+"mdl-parse-error.illegalFileType" = "The file {0} is not a .mdl file";
+"mdl-parse-error.fileAccessError" = "Unable to access the file '{0}'";
+"mdl-parse-error.invalidAliasDefinition" = "alias definition is not formatted correctly";
+"mdl-parse-error.aliasAlreadyUsed" = "duplicate alias '{0}'";
+"mdl-parse-error.illegalAliasName" = "'{0}' is not a legal alias name (cannot be 'let' or 'autopeg'";
+"mdl-parse-error.remappedAliasName" = "aliases must resolve directly to a block type; mapping one alias to another is not permitted";
+"mdl-parse-error.recursiveAliasName" = "aliases must not be recursive";
+"mdl-parse-error.cannotUseBlockName" = "'{0}' is already a known block type and cannot be used as the name of an alias";
+"mdl-parse-error.insertionBeforeRoot" = "the root must be defined before further blocks can be added";
+"mdl-parse-error.invalidBlockDefinition" = "block definition is not formatted correctly";
+"mdl-parse-error.unknownBlockType" = "'{0}' is not a known block type";
+"mdl-parse-error.colorUnknown" = "the color specifier '{0}' could not be parsed";
+"mdl-parse-error.duplicateBlockAddress" = "a block already exists at that location";
+"mdl-parse-error.blockCollision" = "this block collides with a pre-existing block";
+"mdl-parse-error.blockAdditionFailed" = "{0}";
+"mdl-parse-error.duplicateRootDefinition" = "the root was already defined";
+"mdl-parse-error.autopegNotApplicable" = "it is too early to use autopeg";
+"mdl-parse-error.illegalAutopegArgument" = "illegal call to autopeg: '{0}' is not a valid automatic peg placement mode (valid options are 'min', 'mid', or 'max')";
+
+
+"model-view-error.title" = "Internal Error";
+"model-view-error.no-file-passed" = "A filename was not passed to the system";
+"model-view-error.file-not-located" = "The filesystem was unable to locate the file {0}";
+
+"rendering-error.title" = "Rendering Error";
+"rendering-error.componentNil" = "The model passed to the model viewer was nil";
+"rendering-error.sceneNil" = "The empty scene was nil";
+
+"editor-pane.title" = "Edit";
+"editor-pane.title-disabled" = "Editing unavailable";
+"editor-pane.unavailable-desc" = "In order to edit this model, you’ll need to make a copy of it first.";
+"editor-pane.make-clone" = "Clone...";
+"editor-pane.make-named-clone" = "Clone {0}...";
+
+"editor-pane.color-chooser.hint" = "Selects this color";
+"editor-pane.color-chooser.hint.addBlock" = "Selects this color for the new block";
+"editor-pane.color-chooser.hint.removeBlock" = "Selects this color";
+"editor-pane.color-chooser.hint.editBlock" = "Changes the color of the selected block to this one";
+
+"viewer.block-count-zero" = "No blocks";
+"viewer.block-count-singular" = "One block";
+"viewer.block-count-plural" = "{0} blocks";
+
+"colors.white" = "White";
+"colors.black" = "Black";
+"colors.red" = "Red";
+"colors.green" = "Green";
+"colors.blue" = "Blue";
+"colors.uiBlue" = "User interface blue";
+"colors.lightBlue" = "Light blue";
+"colors.purple" = "Purple";
+"colors.turquoise" = "Turquoise";
+"colors.peach" = "Peach";
+"colors.unknown" = "Unknown";
+
+"numbers.2" = "Two";
+"numbers.3" = "Three";
+"numbers.4" = "Four";
+"numbers.5" = "Five";
+"numbers.6" = "Six";
+"numbers.7" = "Seven";
+"numbers.8" = "Eight";
+"numbers.9" = "Nine";
+"numbers.10" = "Ten";
+"numbers.11" = "Eleven";
+"numbers.12" = "Twelve";
+"numbers.13" = "Thirteen";
+"numbers.14" = "Fourteen";
+"numbers.15" = "Fifteen";
+"numbers.16" = "Sixteen";
+"numbers.17" = "Seventeen";
+"numbers.18" = "Eighteen";
+"numbers.19" = "Nineteen";
+"numbers.20" = "Twenty";

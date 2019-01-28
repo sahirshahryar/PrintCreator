@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "PrintCreator"; ObjectID = "70T-8z-oDm"; */
+"70T-8z-oDm.text" = "PrintCreator";
+
+/* Class = "UINavigationController"; title = "Choose Model"; ObjectID = "Lfd-OS-Mjs"; */
+"Lfd-OS-Mjs.title" = "Auswahl Vorbilds";
+
+/* Class = "UILabel"; text = "Choose an option below..."; ObjectID = "RY9-09-bax"; */
+"RY9-09-bax.text" = "Wähl eine Option aus...";
+
+/* Class = "UIButton"; normalTitle = "Open..."; ObjectID = "d0I-lj-zZf"; */
+"d0I-lj-zZf.normalTitle" = "Öffnen...";
+
+/* Class = "UIButton"; normalTitle = "Explore Presets"; ObjectID = "jY1-6s-uy5"; */
+"jY1-6s-uy5.normalTitle" = "Voreinstellungen";
+
+/* Class = "UIButton"; normalTitle = "Create new..."; ObjectID = "k3J-mk-WZm"; */
+"k3J-mk-WZm.normalTitle" = "Neues Vorbild...";
+
+/* Class = "UINavigationItem"; title = "Choose Model"; ObjectID = "xug-ku-IyH"; */
+"xug-ku-IyH.title" = "Auswahl Vorbilds";
